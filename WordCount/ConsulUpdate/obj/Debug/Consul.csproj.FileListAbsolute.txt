@@ -1,0 +1,8 @@
+C:\Users\houer\Documents\Visual Studio 2015\Projects\Consul\WordCount\ConsulUpdate\bin\Debug\ConsulUpdate.pdb
+C:\Users\houer\Documents\Visual Studio 2015\Projects\Consul\WordCount\ConsulUpdate\bin\Debug\ConsulClient.dll
+C:\Users\houer\Documents\Visual Studio 2015\Projects\Consul\WordCount\ConsulUpdate\bin\Debug\ServiceStack.Text.dll
+C:\Users\houer\Documents\Visual Studio 2015\Projects\Consul\WordCount\ConsulUpdate\bin\Debug\ServiceStack.Text.xml
+C:\Users\houer\Documents\Visual Studio 2015\Projects\Consul\WordCount\ConsulUpdate\obj\Debug\ConsulUpdate.pdb
+C:\Users\houer\Documents\Visual Studio 2015\Projects\Consul\WordCount\ConsulUpdate\obj\Debug\Consul.csprojResolveAssemblyReference.cache
+C:\Users\houer\Documents\Visual Studio 2015\Projects\Consul\WordCount\ConsulUpdate\bin\Debug\ConsulUpdate.exe
+C:\Users\houer\Documents\Visual Studio 2015\Projects\Consul\WordCount\ConsulUpdate\obj\Debug\ConsulUpdate.exe

@@ -1,0 +1,1 @@
+C:\Users\houer\Documents\Visual Studio 2015\Projects\Consul\WordCount\WordCount\obj\x64\Debug\WordCount.sfprojResolveAssemblyReference.cache

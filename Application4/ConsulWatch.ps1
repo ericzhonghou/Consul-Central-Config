@@ -1,0 +1,1 @@
+﻿./consul watch -type key -key WordCount.Service watch.sh

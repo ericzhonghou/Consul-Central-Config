@@ -1,0 +1,12 @@
+c:\users\houer\documents\visual studio 2015\Projects\UpdateConsul\UpdateConsul\bin\Debug\UpdateConsul.exe.config
+c:\users\houer\documents\visual studio 2015\Projects\UpdateConsul\UpdateConsul\obj\Debug\UpdateConsul.csprojResolveAssemblyReference.cache
+c:\users\houer\documents\visual studio 2015\Projects\UpdateConsul\UpdateConsul\bin\Debug\UpdateConsul.exe
+c:\users\houer\documents\visual studio 2015\Projects\UpdateConsul\UpdateConsul\bin\Debug\UpdateConsul.pdb
+c:\users\houer\documents\visual studio 2015\Projects\UpdateConsul\UpdateConsul\bin\Debug\ConsulClient.dll
+c:\users\houer\documents\visual studio 2015\Projects\UpdateConsul\UpdateConsul\bin\Debug\ServiceStack.Text.dll
+c:\users\houer\documents\visual studio 2015\Projects\UpdateConsul\UpdateConsul\bin\Debug\ServiceStack.Text.xml
+c:\users\houer\documents\visual studio 2015\Projects\UpdateConsul\UpdateConsul\obj\Debug\UpdateConsul.exe
+c:\users\houer\documents\visual studio 2015\Projects\UpdateConsul\UpdateConsul\obj\Debug\UpdateConsul.pdb
+C:\Users\houer\Documents\Visual Studio 2015\Projects\Consul\UpdateConsul\UpdateConsul\bin\Debug\UpdateConsul.exe.config
+C:\Users\houer\Documents\Visual Studio 2015\Projects\Consul\UpdateConsul\UpdateConsul\obj\Debug\UpdateConsul.exe
+C:\Users\houer\Documents\Visual Studio 2015\Projects\Consul\UpdateConsul\UpdateConsul\obj\Debug\UpdateConsul.pdb

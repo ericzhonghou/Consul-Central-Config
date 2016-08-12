@@ -1,0 +1,1 @@
+﻿consul watch -type key -key key1 watch.sh

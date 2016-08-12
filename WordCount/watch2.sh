@@ -1,0 +1,1 @@
+"C:\Users\houer\Documents\Visual Studio 2015\Projects\Consul\UpdateConsul\UpdateConsul\bin\Debug\UpdateConsul.exe" http://localhost:8500 WordCount.WebService

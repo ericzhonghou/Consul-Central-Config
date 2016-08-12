@@ -1,0 +1,2 @@
+C:\Users\houer\Documents\Visual Studio 2015\Projects\Application4\Application4\obj\x64\Debug\Application4.sfprojResolveAssemblyReference.cache
+C:\Users\houer\Documents\Visual Studio 2015\Projects\Consul\Application4\Application4\obj\x64\Debug\Application4.sfprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+﻿./consul watch -key key1 "C:\Users\houer\Documents\Visual Studio 2015\Projects\Application4\watch.bash"
